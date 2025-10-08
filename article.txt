@@ -1,0 +1,67 @@
+Six years ago, the internet was limited both in what it could do and in who used it. Many people had heard the word but did not have a clue what it was. Today, most teachers have not only been exposed to the internet but also have access at home or at school. In fact, a large number of schools are being retrofitted to place the internet in every classroom. Even more exciting than this is the newest technology: Wireless. A school can purchase a 'Portable Classroom'. This consists of laptops networked together, allowing students to work at their desks WITHOUT wires. If the laptops are networked to a printer, students can print from their personal computer to the classroom printer. Imagine the possibilities! 
+
+How to Integrate Technology 
+
+Research 
+
+Research is the number one reason to use the internet in education. Students have a wealth of information open to them. Often, when they are researching obscure topics, school libraries do not have the needed books and magazines. The internet helps solve this problem. Here's an example of a great research project: Using this site's new Lecture Outline Series for the History of China, students can research directly off this page and then present the information they find. 
+
+One concern which I will discuss in Part II of this article is the quality of the information found online. However, with some advance 'footwork' of your own, along with stringent recording requirements for sources, you can help the student determine whether their information is from a reliable source. This is also an important lesson for them to learn for research in college and beyond. 
+
+The possibilities for assessment of research on the internet are endless, many of them involving other forms of technology. Some ideas include essays, debates, panel discussions, role play, video presentation of information, web page creation (see next subheading for more on this) and PowerPoint(tm) presentations. 
+
+Creating a Website 
+
+A second project that can help integrate technology while truly getting the students excited about school is website creation. You can publish a website with your class about information the students have researched or personally created. Examples of what this page might focus on include a collection of student-created short stories, a collection of student-created poems, results and information from science fair projects, historical 'letters' (students write as if they were historical figures), even critiques of novels could be included. To see what a group of students can really do, visit Why is Mona Lisa Smiling? One concern that will be discussed more in part two is fears of plagiarism and parental support. 
+
+How would you go about doing this? Many places offer free websites. First, you can check with your school to see if they have a website, and whether you could create a page which would be linked to that site. If that is not available, Geocities is just one example where you can sign up and get room to upload your information onto your own page. 
+
+How hard is it to learn? HTML, the basic language of the internet, is not that difficult to learn at all. Here is a great HTML Workshop to help you along. You will need some sort of editor to make your life easy. If you have Macs at school, you can use Adobe Page Mill and Claris Home Page. HTML editors really take the headache out of creating pages. If you are using a geocities as mentioned above, they have a text editor which you can use to help you create your site along with a lot of pre-formatted pages. 
+
+Online Assessment 
+
+A newer area of the internet to explore is online assessment. You can create your own tests online through your own website. These require knowledge of the internet, so many new users might not be quite ready for this. Although, it might be a great way to interact with Advanced Placement students over vacations and the summer. If you are interested in this, see Free Home Pages for Educators for more information. In the near future, there will be many companies who will offer not only online testing but also instant grading of exams.It is important to consider problems that might arise when integrating the internet and technology into the classroom. 
+Concerns 
+
+ONE.Time 
+Objection: Teachers hardly have enough time to do all that is expected of them as it is. Where do we find the time to implement this into the curriculum without 'wasting time'? 
+
+Possible Solution: Teachers have to do what works for them. The internet, just like any other technology, is a tool. Many times information can only be passed on through books and lectures. However, if you feel that integrating the internet is important, just try one project each year. 
+
+TWO. Cost and Available Equipment 
+Objection: School Districts do not always provide a large budget for technology. Many schools don't have the necessary equipment. Some aren't connected to the internet. 
+
+Possible Solution: If your school district is not supportive or unable to provide technology, you can turn to corporate sponsors and grants. Sources of Grants. If you would like information to help you write grants, read Grant Writing Tips. 
+
+THREE. Knowledge 
+Objection: Learning about new technology and the internet is confusing. You will be teaching with something you may not completely understand. 
+
+Possible Solution: Hopefully most districts have instituted an inservice plan to help acclimate teachers to the web. Barring this, there are some online help sources. 
+
+FOUR. Quality 
+Objection: Quality on the internet is not guaranteed. It is easy to run a biased and inaccurate website with no regulation whatsoever. 
+
+Possible Solution: First, when you are thinking about having your students research a topic, do a search to make sure the information is available. A lot of time is wasted searching for obscure topics on the web. Second, review websites either on your own or with your students. Here is a great site with information about evaluating web resources. 
+
+FIVE. Plagiarism 
+Objection: When students research off the web to produce a traditional research paper, it is often difficult for teachers to tell if it is plagiarized. Not only that, but students can BUY papers off the web. 
+
+Possible Solution: First, educate yourself. Find out what's available. Here are some resources with which to start. Also, a solution that works well is oral defenses. Students answer questions I pose and must be able to explain their findings. If nothing else, they have to learn what they have stolen (or bought) off of the internet. 
+
+SIX. Cheating 
+Objection: There is nothing stopping students from cheating with each other while on the internet, especially if you are giving online assessments. 
+
+Possible Solution: First, cheating off of each other has always existed, but the internet seems to make it easier. Many schools make the sending of emails and instant messages against the school code because of possible abuses. Therefore, if students are caught using these during an assessment, they would not only be guilty of cheating but also of violating school rules. 
+
+Second, if online assessments are given, watch students carefully because they could switch back and forth between the test and web pages that might give them answers. 
+
+SEVEN. Parental and Community Objections 
+Objection: The internet is full of items that most parents would rather keep away from their children: pornography, foul language, and subversive information are examples. Parents and community members might fear their children would be able to access this information if given the opportunity to use the internet at school. Also, if students' work is to be published on the internet, it might be necessary to gain a parent's approval. 
+
+Possible Solution: Unlike public libraries, school libraries have the ability to restrict what is viewed on the internet. Students caught accessing information that is questionable can be subject to disciplinary action. Libraries would be wise to make sure that computers with internet access are easily observable in order to monitor student activity. Classrooms pose a different problem, however. If students are using the internet, the teacher needs to check and make sure they are not accessing questionable material. Fortunately, teachers can look at the 'history' of what was accessed on the internet. If there is any question whether a student was viewing something that was inappropriate, it is a simple matter to check the history file and see which pages were viewed. 
+
+As far as publishing student work, a simple permission form should work. Check with your school district to see what their policy is. Even if they do not have a set policy, you might be wise to get a parent's approval, especially if the student is a minor. 
+
+Is it Worth it? 
+
+Do all of the objections mean that we should not use the internet in the classroom? No. However, we must address these concerns before we fully integrate the internet into the classroom. The effort is definitely worth it because the possibilities are endless! 
