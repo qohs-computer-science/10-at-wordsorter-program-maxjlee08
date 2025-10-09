@@ -1,9 +1,11 @@
 import java.io.File;
 import java.util.Scanner;
+import java.util.ArrayList;
 public class WordSorter 
 {
 	public static void main(String[] args) 
 	{
+		ArrayList<String> words = new ArrayList<>();
 		Scanner in = new Scanner(System.in); 
 		try
 		{
@@ -29,8 +31,21 @@ public class WordSorter
 			word = word.replace("?", "");
 			word = word.replace("'", "");
 			System.out.println(word);
+			words.add(word);
 			
 			
 		}
+		ArrayList<String> lower = new ArrayList<>();
+		for(String x: words){
+			lower.add(x.toLowerCase());
+		}
+			System.out.println(lower);
+
+		for(int i= 0; i < lower.size(); i++)
+			for(x = lower.size(); x < lower.size()+1; x--)
+				if(i.value() == x.value())
+		}
+		
+
 	}
 }
