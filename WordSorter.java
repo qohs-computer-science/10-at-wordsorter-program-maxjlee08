@@ -6,6 +6,7 @@ public class WordSorter
 	public static void main(String[] args) 
 	{
 		ArrayList<String> words = new ArrayList<>();
+
 		Scanner in = new Scanner(System.in); 
 		try
 		{
@@ -39,13 +40,28 @@ public class WordSorter
 		for(String x: words){
 			lower.add(x.toLowerCase());
 		}
-			System.out.println(lower);
+			//System.out.println(lower);
 
-		for(int i= 0; i < lower.size(); i++)
-			for(x = lower.size(); x < lower.size()+1; x--)
-				if(i.value() == x.value())
-		}
+		ArrayList <String> [] order = new ArrayList[26];
+		for(int x = 0; x < order.length; x++)
+			order[x] = new ArrayList<String>();
 		
+		for(String temp: lower){
+			char group = temp.charAt(0);
+		if(group >= 'a' && group <='z'){
+			int first = group - 'a';
+			order[first].add(temp);
 
-	}
+		}
+		System.out.println(order);
+		
+		}
+
+		
+		
+			
+		
+		}
 }
+
+
