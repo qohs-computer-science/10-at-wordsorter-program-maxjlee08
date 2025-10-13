@@ -34,32 +34,31 @@ public class WordSorter
 			System.out.println(word);
 			words.add(word);
 			
-			
+		//Make it all lower case	
 		}
 		ArrayList<String> lower = new ArrayList<>();
 		for(String x: words){
 			lower.add(x.toLowerCase());
 		}
 			//System.out.println(lower);
-
-		ArrayList <String> [] order = new ArrayList[26];
-		for(int x = 0; x < order.length; x++)
-			order[x] = new ArrayList<String>();
-		
-		for(String temp: lower){
-			char group = temp.charAt(0);
-		if(group >= 'a' && group <='z'){
-			int first = group - 'a';
-			order[first].add(temp);
-
+		//Make it all in order(group them)
+		for(int i = 0; i<lower.size()-1; i++){
+			int val = i;
+			for(int y = i +1; y < lower.size(); y++){
+				if(lower.get(y).compareTo(lower.get(val))<0){
+					val=y;
+				}
+			}
+			String order = lower.get(i);
+			lower.set(i, lower.get(val));
+			lower.set(val, order);
 		}
-		System.out.println(order);
+		System.out.println("____________________________________");
+		System.out.println("[Alphabetical Order]");
+		System.out.println(lower);
 		
-		}
-
-		
-		
-			
+		//Take out the duplicates
+		ArrayList<String> unique = new ArrayList<>();			
 		
 		}
 }
