@@ -1,3 +1,6 @@
+//Max Lee
+//10/14/2025
+//This code creates a menu that when the user chooses an option it completes a specific task.
 import java.io.File;
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -5,6 +8,7 @@ public class WordSorter
 {
 	public static void main(String[] args) 
 	{
+		boolean again = true;
 		ArrayList<String> words = new ArrayList<>();
 		Scanner keyB = new Scanner(System.in);
 		Scanner in = new Scanner(System.in); 
@@ -68,11 +72,13 @@ public class WordSorter
 			System.out.println(unique);
 
 		//Make the menu
+		while(again){		
 		System.out.println("1) Print out all words starting with a specific letter:");
 		System.out.println("2) Print out all words in their letter groups:");
 		System.out.println("3) Print the number of unique words:");
 		System.out.println("4) Search if a word is in the article:");
 		System.out.println("5) Remove a word from the data structure:");
+		System.out.println("6) Exit");
 		System.out.print("Choose an Option: ");
 		int choice = keyB.nextInt();
 		//Input from the keyboard
@@ -84,14 +90,14 @@ public class WordSorter
 		String find = unique.get(x);
 		if(find.charAt(0) == letter){
 			firstChar.add(find);
-			}
+			}//end if
 		
-		}
+		}//end for
 		
 		System.out.println("______________________");
 		System.out.println(firstChar);
-	}
-		//print out all of the words 
+	}//end if
+	//print out all of the words 
 		else if(choice==2){
 		for(char order = 'a'; order <= 'z'; order++){
 		System.out.println("Letter: " + order);
@@ -101,23 +107,57 @@ public class WordSorter
 				if(Character.toLowerCase(a.charAt(0))==order){
 					System.out.println(a);
 					found = true;
-				}
-			}
+				}//end if
+			}//end for
 			if(!found){
 				System.out.println("Empty List");
-			}
-		}
-	}
+			}//end if
+		}//end for
+	}//end else if
 		//print out the number of unique words
 		else if(choice==3){
 		System.out.println("There are " + unique.size() + " unique words in the article");
-	}
+	}//end else if
 
-		//Searh and determine is a word is in the article
-		else if(choice==4){
-
+	//Searh and determine if a word is in the article
+	else if(choice==4){
+		System.out.print("Enter a word you would like to search for: ");
+		String search = keyB.next().toLowerCase();
+		
+		if(unique.contains(search)){
+			System.out.println("Word found in the article");
 		}
+			else{
+			System.out.println("Word NOT found in the article");
+			}//end else
+		}//end if
+	//If user wants to remove a word
+	else if(choice==5){
+		System.out.print("Enter a word you want to remove: ");
+		String remove = keyB.next().toLowerCase();
 
+		if(unique.contains(remove)){
+			unique.remove(remove);
+			System.out.println("Word successfully removed from the list.");}
+		else
+		System.out.println("Word Not found in the article.");
+		}//end if
+	
+
+	else if(choice==6){
+		System.out.println("Goodbye!");
+		again=false;
+	}//end if
+	}
+	//Go again
+	
+	System.out.println("Would you like to continue? 1:Yes 2:No");
+	int another = keyB.nextInt();	
+	if(another==1)
+		again = true;
+	else
+		again = false;
+	
 		}//end main
 }//end class
 
